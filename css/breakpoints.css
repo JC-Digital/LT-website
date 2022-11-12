@@ -1,0 +1,90 @@
+/* media queries */
+
+
+@media only screen and (max-width: 773px) {
+    /* .container {
+        max-width: 80%;
+    } */
+
+    blockquote {
+      font-size: 1.2rem;
+    }
+
+    .rev-duke,
+    .rev-max,
+    .rev-duke-bottom,
+    .rev-diz,
+    .rev-abbey,
+    .rev-lil-pistoia,
+    .book-cover-image,
+    .book-cover-book,
+    .lt-bio,
+    .bio-pic-caption,
+    .ray-pic {
+        display: none;
+    }
+
+    .born {
+      width: 100%;
+    }
+
+    .subhead {
+        display: none;
+    }
+
+    .lt,
+    .bio {
+        font-size: 1.2rem;
+        text-align:left;
+
+    }
+
+    h1 {
+        font-size: 3.5rem;
+        padding: 1%;
+    }
+
+    h2 {
+      font-size: 1rem;
+  }
+  
+  h3 {
+      font-size: 1.7rem;
+  }
+
+    h4 {
+        font-size: 1.2rem;
+    }
+
+    .header-discography,
+    .home-title {
+      font-size: 3.5rem;
+      padding: 1% 0;
+
+    }
+
+    .header,
+    .header-home {
+        height: 90px;
+    }
+
+    .cards-title,
+    .cards-text
+    {
+      font-size: 80%;
+  }
+  
+
+
+    .footer {
+        font-size: 70%;
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+ .main {
+   width: 60%;
+ }
+
+
+}

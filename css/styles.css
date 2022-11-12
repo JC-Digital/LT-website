@@ -1,0 +1,492 @@
+.btn-link {
+  font-size: 1.2rem;
+  color: white !important;
+}
+
+.reviews-btn {
+  margin: 3% 0;
+}
+
+
+blockquote {
+  /* padding: 3% 0; */
+  color: #4b6e77;
+  text-align: justify;
+  font-size: 1.4rem;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+}
+
+.fitzgerald {
+  color: #0894b0;
+
+}
+
+.blockquote-footer {
+  font-size: 80%;
+  display: block;
+  color: #959ca0;
+  text-align: right;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+
+}
+
+
+body {
+  color: #2f3335;
+  font-size: 1.2rem;
+  line-height: 1.65;
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+
+}
+
+h1 {
+  font-family: 'Grand Hotel', cursive;
+  padding: 2%;
+  font-size: 6rem;
+}
+
+h2 {
+  font-size: 1.3rem;
+  color: #bd574e;
+  line-height: 1.8;
+}
+
+h3 {
+  font-size: 2.25rem;
+  color: #a03d3d;
+  text-align: left;
+}
+
+h4 {
+  font-size: 1.8rem;
+  color: #708287;
+  text-align: justify;
+  line-height: 1.75;
+}
+
+h5 {
+  text-align: left;
+  color: #2d6d88;
+  /* font-weight: bold; */
+  font-size: 1.4rem;
+}
+
+p {
+  text-align: justify;
+}
+
+a {
+  color: #508cb1;
+  /* font-size: 1.3rem; */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.btn-home-memoirs {
+  font-family: 'Lato', sans-serif;
+}
+
+.border-quote {
+  color: #386e81 !important;
+}
+
+.up a {
+  font-size: 3rem;
+  color: #508cb1db;
+  /* text-align: right; */
+}
+
+
+
+.card {
+  border: 0;
+}
+
+.card-body {
+  text-align: left;
+  padding-left: 0;
+}
+
+
+/* Navigation Bar */
+
+.bg-dark {
+  background-color: #000 !important;
+}
+
+.header {
+  background-color: #990000;
+  color: #fff;
+  text-align: center;
+  padding: 1% 0;
+  /* margin-bottom: 5%; */
+
+}
+
+.header-home {
+  background-color: #990000;
+  color: #fff;
+  text-align: center;
+  padding: 1.5% 0 1% 0;
+  margin-bottom: 1%;
+  /* height: 180px; */
+}
+
+.home-title {
+  margin-bottom: -2rem;
+  font-size: 6rem;
+}
+
+.subhead {
+  font-size: 2rem;
+  color: #d33a3a;
+  text-transform: uppercase;
+  font-stretch: ultra-expanded;
+  text-align: center;
+}
+
+.ce-subhead {
+  font-size: 3rem;
+  color: #d33a3a;
+  text-transform: uppercase;
+  font-stretch: ultra-expanded;
+  text-align: center;
+}
+
+p .text-muted {
+  font-size: 90%;
+  font-style: italic;
+}
+
+/* Index page */
+
+.container-home {
+  text-align: center;
+  max-width: 60%;
+}
+
+.card,
+.card-img,
+.card-img-top {
+  border-radius: 0;
+}
+
+.lt {
+  padding: 3% 0;
+  font-size: 1.3rem;
+  text-align: justify;
+}
+
+.home-image {
+  border: 4px solid white;
+  padding-top: 1em;
+}
+
+.home-book {
+  background-color: #ebf5f4;
+  width: 100%;
+  /* padding: 10%; */
+}
+
+.quote-db {
+  /* line-height: 1.65; */
+  text-align: justify;
+  color: #3c4245;
+  padding: 0 1%;
+}
+
+.home-anita {
+  background-color: #eee9e1;
+}
+
+.home-memoirs {
+  line-height: 1.8;
+  font-family: 'Merriweather';
+  font-size: 1.5rem;
+  color: #12515f;
+  background-color: #ebf5f4e0;
+}
+
+.card-text {
+  text-align: left;
+  font-style: italic;
+}
+
+.card-body {
+  text-align: left;
+}
+
+.home-book-cover {
+  border: 5px solid #fff;
+}
+/* 
+.footer-above {
+  height: 30px;
+} */
+
+.list-group-item {
+  background-color: #ebf5f4!important;
+  margin-bottom: .5rem;
+  /* border-radius: 0; */
+  border: 0;
+}
+
+.list-group a {
+  font-size: 1.2rem;
+  color: #306271;
+}
+
+.list-group a:hover {
+  color: #ffffff;
+}
+
+.chick-quote {
+  color: #b14c44;
+}
+
+.img-cite {
+  font-size: 80%;
+}
+
+.footer {
+  font-size: 90%;
+  /* display: block; */
+  color: #959ca0;
+  text-align: right;
+}
+
+/* Book */
+
+.book-header {
+  color: #a9be3b;
+}
+
+.book-text {
+  line-height: 2;
+}
+
+.jaunty {
+  text-align: center;
+  color: white;
+  padding: .5rem 0;
+}
+
+.jaunty-bg {
+  background-color: #a9be3b;
+}
+
+.book-cover-image {
+  width: auto;
+  max-height: 320px;
+  float: left;
+  margin-right: 3rem;
+  border: 5px solid #fff;
+}
+
+.book-cover-book {
+  max-width: 40%;
+  height: auto;
+  float: right;
+  margin-bottom: 3rem;
+  margin-left: 2rem;
+  border: 5px solid #fff;
+}
+
+/* Discography Page */
+
+.header-discography {
+  font-size: 6rem;
+}
+
+.cd-card {
+  max-width: 280px;
+  min-width: 240px;
+  height: auto;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.cd-cover {
+  max-width: 280px;
+  min-width: 240px;
+  height: auto;
+}
+
+/* .card-title {
+  color: #616161;
+} */
+
+.gitler {
+  text-align: center;
+}
+
+/* .bg-emotions
+.bg-dizzy */
+/* .bg-tommy */
+.bg-cds
+ {
+  background-color: #f0f5f5;
+}
+
+
+/* Memoirs page */
+.memoirs-next {
+  border: 6px solid #ebf5f4!important;
+}
+
+.embed-responsive {
+  background-color: #cbe4ebc4;
+}
+
+.lt-dg-garden {
+  /* float: right; */
+  /* margin: 0 0 1rem 1rem; */
+  border: 1px solid #adc3b1;
+}
+
+.memoirs-next h1 {
+  color: #88b897;
+}
+
+.chet,
+.ella,
+.satchmo,
+.ray {
+  max-width: 500px;
+  height:auto;
+}
+
+
+
+/* Reviews page */
+
+
+.bg-card-body {
+  padding: 0;
+  margin-bottom: 1.5rem;
+  font-size: 90%;
+}
+
+.articles a {
+  padding-right: 2rem;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  color: #990000;
+}
+
+.rev-duke {
+  max-width: 65%;
+  height: auto;
+  float: left;
+  border: 4px solid white;
+}
+
+.rev-abbey {
+  max-width: 65%;
+  height: auto;
+  float: right;
+  border: 4px solid white;
+}
+
+.rev-max {
+  max-width: 65%;
+  height: auto;
+  float: left;
+  border: 4px solid white;
+}
+
+.rev-duke-bottom {
+  max-width: 65%;
+  height: auto;
+  float: left;
+  border: 4px solid white;
+}
+
+.rev-lil-pistoia {
+  max-width: 65%;
+  height: auto;
+  float: right;
+  border: 4px solid white;
+}
+
+.rev-diz {
+  max-width: 65%;
+  height: auto;
+  float: right;
+  border: 4px solid white;
+}
+
+.publication {
+  margin-top: 4%;
+}
+
+.title-link {
+  margin-bottom: 20px;
+  background-color: #ebeff1;
+  padding: 2%;
+}
+
+/* Bio Page */
+.bio {
+  background-color: #cce0ab4c;
+}
+
+.bio-text {
+  line-height: 1.8;
+  color: #2d6d88;
+  font-size: 1.75rem;
+}
+
+.bio-header {
+  color: #992e2e;
+  font-size: 1.75rem;
+  margin-top: 1rem;;
+  font-weight: bold;
+}
+
+.lt-bio {
+  float: right;
+  text-align: right;
+}
+
+.caption {
+  font-size: 95%;
+  text-align: left;
+}
+
+/* Photos Page */
+
+.cards,
+.card {
+  text-align: center;
+  /* background-color: #f2efea; */
+}
+
+.cards p {
+  font-size: 1.1rem;
+}
+
+.card-title {
+  font-size: 1.4rem;
+}
+
+
+.quote {
+  width: auto;
+  margin: 15px 0;
+  line-height: 2;
+}
+
+/* Images */
+.img-thumbnail {
+  border: 1px solid #dee2e6;
+}
