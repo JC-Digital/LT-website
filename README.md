@@ -1,1 +1,1 @@
-Responsive website built in Bootstrap
+Responsive website built with Bootstrap
