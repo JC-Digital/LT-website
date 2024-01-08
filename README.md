@@ -1,3 +1,1 @@
-Responsive website for Lilian Terry
-Built with Boostrap
- 
+Responsive website built in Bootstrap
