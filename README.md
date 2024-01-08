@@ -1,2 +1,3 @@
-# 2020-LT-website
+Responsive website for Lilian Terry
+Built with Boostrap
  
