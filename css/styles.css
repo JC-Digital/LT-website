@@ -119,6 +119,10 @@ a:hover {
 
 /* Navigation Bar */
 
+.nav-link a {
+  color: #eaeaea!important;
+}
+
 .bg-dark {
   background-color: #000 !important;
 }
@@ -228,10 +232,7 @@ p .text-muted {
 .home-book-cover {
   border: 5px solid #fff;
 }
-/* 
-.footer-above {
-  height: 30px;
-} */
+
 
 .list-group-item {
   background-color: #ebf5f4!important;
@@ -258,8 +259,7 @@ p .text-muted {
 }
 
 .footer {
-  font-size: 90%;
-  /* display: block; */
+  font-size: 85%;
   color: #959ca0;
   text-align: right;
 }
@@ -339,6 +339,11 @@ p .text-muted {
 
 
 /* Memoirs page */
+
+.memoirs-bg {
+  background-color: #ebf4f5;
+}
+
 .memoirs-next {
   border: 6px solid #ebf5f4!important;
 }
